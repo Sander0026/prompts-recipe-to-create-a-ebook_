@@ -33,23 +33,16 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título e um subtítulo de um ebook sobre o tema de Controle financeiro, o ebook é do nicho de financeiro e o subnicho é de Gastos pessoais, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em Controle Financeiro, listando as principais causas dos gastos pessoais com exemplos de como resolver 
-{REGRAS}
->Explique sempre de uma maneira simples 
->Deixe o texto enxuto
->Sempre traga exemplos de caso em contextos reais
->Sempre deixe um título sugestivo por tópico
- |
+| **Ação**  | **Prompt**                                                                                  |
+|-----------|---------------------------------------------------------------------------------------------|
+| título    | Crie um título e um subtítulo de um ebook sobre o tema de Controle financeiro. O ebook é do nicho financeiro e o subnicho é de Gastos pessoais. O título deve ser épico, curto, com temática de Star Wars, e apresente 5 variações de títulos. |
+| conteúdo  | Faça um texto para ebook, com foco em Controle Financeiro, listando as principais causas dos gastos pessoais com exemplos de como resolver. Regras: Explique de forma simples; deixe o texto enxuto; traga exemplos em contextos reais; utilize título sugestivo por tópico. |
 
+### MidJourney
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | create a character with a face divided in half between money and debt, in a contrast between having money and being in debt, animation style, with black and white style, with a neutral background, more professional tone, book cover, high resolution, downward angle --ar 1:1 --v 5.2|
+| **Ação** | **Prompt**                                                                                                                    |
+|----------|-------------------------------------------------------------------------------------------------------------------------------|
+| título   | Create a character with a face divided in half between money and debt, in a contrast between having money and being in debt, animation style, black and white style, neutral background, professional tone, book cover, high resolution, downward angle --ar 1:1 --v 5.2 |
 
 ## ✨ Features
 
